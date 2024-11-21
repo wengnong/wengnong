@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Winona 👋
 
 **Tech Enthusiast (Programmer/Learner/Photographer)**
 
-I'm an undergraduate student with a strong interest in cybersecurity and software development currently learning Python, Java, and SQL while constantly exploring and honing my skills across other fields. As an aspiring learner, I am eager to embrace challenges and acquire new knowledge.
+I'm an undergraduate student with a strong interest in cybersecurity and software development. Currently learning Python, Java, and SQL while constantly exploring and honing my skills across other fields. As an aspiring learner, I am eager to embrace challenges and acquire new knowledge.
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
