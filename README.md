@@ -15,7 +15,3 @@ I'm an undergraduate computer science student with a strong interest in cybersec
 [![](https://visitcount.itsvg.in/api?id=wengnong&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-[![](https://visitcount.itsvg.in/api?id=wengnong&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
