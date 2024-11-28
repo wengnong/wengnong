@@ -11,7 +11,5 @@ I'm an undergraduate computer science student with a strong interest in cybersec
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wengnong&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wengnong&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=wengnong&icon=0&color=6)](https://visitcount.itsvg.in)
-
+<!-- [![](https://visitcount.itsvg.in/api?id=wengnong&icon=0&color=6)](https://visitcount.itsvg.in) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
