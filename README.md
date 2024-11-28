@@ -10,4 +10,4 @@ I'm an undergraduate computer science student with a strong interest in cybersec
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wengnong&show_icons=true&locale=en&layout=compact" alt="wengnong" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wengnong&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Winona's GitHub stats](https://github-readme-stats.vercel.app/api?username=wengnong&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
