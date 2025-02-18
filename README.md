@@ -4,8 +4,6 @@
 
 I’m an undergraduate computer science student passionate about **cybersecurity** and **full-stack development**. Currently diving deep into **Linux**, **MERN stack**, and **Python**, while continuously sharpening my skills across various other domains. Always eager to explore new technologies and solve complex problems.
 
----
-
 ## 💻 **Tech Stack**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -30,8 +28,6 @@ I’m an undergraduate computer science student passionate about **cybersecurity
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
 
 ## 📊 **GitHub Stats**
 
