@@ -1,10 +1,10 @@
-# Hi there, I'm **Winona** 👋
+# Hi there, I'm **Winona**  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="auto">
 
 **Tech Enthusiast | Programmer | Learner**
 
 I’m an undergraduate computer science student passionate about **cybersecurity** and **full-stack development**. Currently diving deep into **Linux**, **MERN stack**, and **Python**, while continuously sharpening my skills across various other domains. Always eager to explore new technologies and solve complex problems.
 
-## 💻 **Tech Stack**
+## **Tech Stack**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +29,7 @@ I’m an undergraduate computer science student passionate about **cybersecurity
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 **GitHub Stats**
+## **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wengnong&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=wengnong&theme=blue-green&hide_border=false)<br/>
