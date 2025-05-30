@@ -4,6 +4,10 @@
 
 I’m an undergraduate computer science student passionate about **cybersecurity** and **full-stack development**. Currently diving deep into **Linux**, **MERN stack**, and **Python**, while continuously sharpening my skills across various other domains. Always eager to explore new technologies and solve complex problems.
 
+Let's be mutuals on Spotify!
+
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/zyrovo)
+
 ## 💻 Tech Stack
 
 ### 🧠 Programming Languages
