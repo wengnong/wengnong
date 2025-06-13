@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWdsdW1kdnBmN2E5dzc4MW1iZWh6anQxd3p1Ym8xY3p1OTU0cHM5MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BzDvnHUHdcinvusgn5/giphy.gif" alt="Landscape" />
+</p>
+
 # Hi there, I'm **Winona**  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="auto">
 
-**Tech Enthusiast | Programmer | Learner**
+**Tech Enthusiast | Programmer | Casual Listener**
 
-I’m an undergraduate computer science student passionate about **cybersecurity** and **full-stack development**. Currently diving deep into **Linux**, **MERN stack**, and **Python**, while continuously sharpening my skills across various other domains. Always eager to explore new technologies and solve complex problems.
+I’m an undergraduate computer science student with a strong interest in cybersecurity and full-stack development. Lately, I’ve been deep-diving into Linux, the MERN stack, and Python, while constantly picking up random new tech just to see what breaks. I don’t drink coffee but somehow end up coding at 3AM anyway, usually with Spotify blasting something dramatic in the background. When I’m not trying to fix a bug I caused three days ago, I’m probably watching F1 and pretending my debugging process is just a very long pit stop.
 
-Let's be mutuals on Spotify!
+I code in silence, but my Spotify doesn't. Click below if you want to bond over 3AM playlists and mutual burnout.
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/zyrovo)
 
