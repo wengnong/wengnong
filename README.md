@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWdsdW1kdnBmN2E5dzc4MW1iZWh6anQxd3p1Ym8xY3p1OTU0cHM5MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BzDvnHUHdcinvusgn5/giphy.gif" alt="Landscape" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NHl3MW1jamVreG85ejkxbnZ4OWIzcno3encybTV6MXY4cnB2ODBnbiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/xUOxeQeWZrlP7H9jZC/giphy.gif" alt="Landscape" />
 </p>
 
 # Hi there, I'm **Winona**  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="auto">
 
 **Tech Enthusiast | Programmer | Casual Listener**
 
-I’m an undergraduate computer science student with a strong interest in cybersecurity and full-stack development. Lately, I’ve been deep-diving into Linux, the MERN stack, and Python, while constantly picking up random new tech just to see what breaks. I don’t drink coffee but somehow end up coding at 3AM anyway, usually with Spotify blasting something dramatic in the background. When I’m not trying to fix a bug I caused three days ago, I’m probably watching F1 and pretending my debugging process is just a very long pit stop.
+I’m an undergraduate computer science student with a strong interest in cybersecurity and full-stack development. Lately, I’ve been deep-diving into Linux, the MERN stack, and Python, while constantly picking up random new tech just to see what clicks. I don’t drink coffee but somehow end up coding until 3AM anyway, usually with Spotify blasting something dramatic in the background. When I’m not trying to fix a bug I caused three days ago, I’m probably watching F1 and pretending my debugging process is just a very long pit stop.
 
 I code in silence, but my Spotify doesn't. Click below if you want to bond over 3AM playlists and mutual burnout.
 
