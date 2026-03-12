@@ -6,9 +6,9 @@
 
 **Tech Enthusiast | Programmer | Casual Bookworm**
 
-I’m an undergraduate computer science student with a strong interest in cybersecurity. Lately, I’ve been deep-diving into Application Security and Reverse Engineering. I don’t drink coffee but somehow end up coding until 3AM anyway, usually with Spotify blasting something in the background. When I’m not trying to solve a malware, I’m probably watching F1 and pretending my debugging process is just a very long pit stop. Occassionally, I swap the keyboard for a half-read novel.
+I’m an undergraduate computer science student with a strong interest in cybersecurity. Lately, I’ve been deep-diving into **Application Security** and **Reverse Engineering**; and also undergoing internship as an **IT Security Engineer** in one of the top banks. When I’m not trying to solve a malware, I’m probably watching F1 and pretending my debugging process is just a very long pit stop. Well, occassionally, I also swap the keyboard for a half-read novel.
 
-I code in silence, but my Spotify doesn't. Connect with me below if you want to bond over niche playlists and mutual burnout!
+I analyze in silence, but my Spotify doesn't. Connect with me below if you want to bond over niche playlists and mutual burnout!
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/zyrovo)
 
