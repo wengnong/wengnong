@@ -4,7 +4,7 @@
 
 # Hi there, I'm **Winona**  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="auto">
 
-**Tech Enthusiast | Programmer | Casual Bookworm**
+**Security Engineer | Tech Enthusiast | Casual Bookworm**
 
 I’m an undergraduate computer science student with a strong interest in cybersecurity. Lately, I’ve been deep-diving into **Application Security** and **Reverse Engineering**; and also undergoing internship as an **IT Security Engineer** in one of the top banks. When I’m not trying to solve a malware, I’m probably watching F1 and pretending my debugging process is just a very long pit stop. Well, occassionally, I also swap the keyboard for a half-read novel.
 
